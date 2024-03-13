@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Magnus!</h1>
 <h3 align="center">A computer science student from Portland</h3>
 
-<img align="right" alt="Me irl" width="400" src="https://i.gifer.com/5eKX.gif" />
+<p align="right"/> <img src="https://i.gifer.com/5eKX.gif" alt="Me irl" width="400"/>
 
 - 🌱 I’m currently learning **Python programming, AI, software engineering, and cloud computing.**
 
