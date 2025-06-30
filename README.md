@@ -11,7 +11,6 @@
 
 - 📄 Keep up with my experiences [https://www.linkedin.com/in/magnus-graham-472aa8245](https://www.linkedin.com/in/magnus-graham-472aa8245)
 
-- ⚡ Fun fact! **I've been into coding since I was 9**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
