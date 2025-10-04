@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **mabugraham@gmail.com**
 
-- 📄 Keep up with my experiences [https://www.linkedin.com/in/magnus-graham-472aa8245](https://www.linkedin.com/in/magnus-graham-472aa8245)
+- 📄 Keep up with my experiences [https://www.linkedin.com/in/magnus-graham/]
 
 
 <h3 align="left">Connect with me:</h3>
