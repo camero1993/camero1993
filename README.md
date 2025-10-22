@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, Java, and Android development**
 
-- 📫 You can reach me at **mabugraham@gmail.com**
+- 📫 You can reach me at **grahamm26@up.edu**
 
 - 📄 Keep up with my experiences [https://www.linkedin.com/in/magnus-graham/]
 
