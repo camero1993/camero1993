@@ -5,7 +5,7 @@
 
 <h3 align="left">What’s on this profile</h3> This profile highlights my hands‑on work from several hackathons and personal projects. You’ll find pinned projects from HackRice, HackGT, DubHacks, the NSBE51 AI Hackathon, and The Colorstack Winter Break Hackathon that showcase my work. 
 
-- 📫 You can reach me at **grahamm26@up.edu**
+📫 You can reach me at **grahamm26@up.edu**
 
 
 <h3 align="left">Connect with me:</h3>
